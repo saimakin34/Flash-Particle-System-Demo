@@ -1,6 +1,6 @@
-#################
-## Eclipse
-#################
+#############################################
+## Eclipse new Version 2021 -              ##
+#############################################
 
 .pooLLdevproject
 .project
@@ -142,8 +142,9 @@ AppPackages/
 # Others
 sql/
 .Cache
-ClientBin/
-[Ss]tyle[Cc]op.
+
+
+
 ~
 ~
 .dbmdl
@@ -180,7 +181,7 @@ Desktop.ini
 $RECYCLE.BIN/
 
 # Mac crap
-.DS_Store
+.DS_Stored
 
 
 #############
